@@ -4,6 +4,13 @@
 //undefine
 //null
 //NaN
+//false
+
+//true value gulo holo
+//"0"
+//" "
+//[]
+//"false"
 
 
 const age = 4;
